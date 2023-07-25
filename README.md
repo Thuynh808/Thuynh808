@@ -1,9 +1,9 @@
-<h1>Hi, I'm Thong! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Thong! <br/><a href="https://www.linkedin.com/in/Thuynh808/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Azure / Cloud Cyber Security Projects</b>
-  - [Creating a Live SOC/Honeynet in Azure](https://github.com/Thuynh808/Cloud-SOC)
+  - [Live SOC/Honeynet in Azure](https://github.com/Thuynh808/Cloud-SOC)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
