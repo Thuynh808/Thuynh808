@@ -1,11 +1,11 @@
-<h1>Hi, I'm Thong! <br/><a href="https://www.linkedin.com/in/Thuynh808/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Thong! <br/><a href="https://www.linkedin.com/in/Thuynh808/">Cybersecurity/IT</a></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure / Cloud Cyber Security Projects</b>
   - [Live SOC/Honeynet in Azure](https://github.com/Thuynh808/Cloud-SOC)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Active Directory Homelab</b>
+  - [Active Directory Homelab](https://github.com/Thuynh808/Active-Directory-Homelab)
 
 <h2> 🤳 Connect with me:</h2>
 
