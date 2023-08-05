@@ -7,9 +7,6 @@
 - <b>Active Directory Homelab</b>
   - [Active Directory Homelab](https://github.com/Thuynh808/Active-Directory-Homelab)
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="ThongHuynh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h1> 🤳 <a href="https://www.linkedin.com/in/Thuynh808/">Connect with me!</a>
 
-
-[linkedin]: https://linkedin.com/in/Thuynh808
