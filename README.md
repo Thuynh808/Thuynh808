@@ -1,6 +1,7 @@
-<h1>Hi, I'm Thong! <br/><a href="https://www.linkedin.com/in/Thuynh808/">Cybersecurity/IT</a></h1>
+<h1>🔹🔷😀🙋‍♂️Hi, I'm Thong! 🙋‍♂️😀🔷🔹<br/></h1>
+<h2>Welcome to my GitHub, where I explore cybersecurity and system administration. Join me to discover projects that secure digital domains and streamline system operations. Let's dive in and create a safer, more efficient digital realm together! 🛡️🖥️</h2>
 
-<h2>👨‍💻 My Projects:</h2>
+<h2>👨‍💻 My Projects:👨‍💻</h2>
 
 - <b>Azure / Cloud Cyber Security Projects</b>
   - [Live SOC/Honeynet in Azure](https://github.com/Thuynh808/Cloud-SOC)
