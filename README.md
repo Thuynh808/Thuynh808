@@ -4,7 +4,7 @@
 
 - <b>Azure / Cloud Cyber Security Projects</b>
   - [Live SOC/Honeynet in Azure](https://github.com/Thuynh808/Cloud-SOC)
-- <b>Active Directory Administration</b>
+- <b>Active Directory Master Lab</b>
   - [Active Directory Homelab](https://github.com/Thuynh808/Active-Directory-Homelab)
     - Created a mini corporate Active Directory enviroment
 
