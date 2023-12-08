@@ -10,8 +10,14 @@
   - [Ubuntu AD Integration](https://github.com/Thuynh808/Ubuntu-AD-Integration)
     - Building on from Active Directory Homelab with an Ubuntu Server centralizing user management configuring network settings, joining the Ubuntu Server to the AD domain, setting up Kerberos authentication, and optimizing system configurations.
       
-- <b>**Azure / Cloud Cyber Security Projects**</b>
+- <b>**Cloud Security Ventures**</b>
   - [Live SOC/Honeynet in Azure](https://github.com/Thuynh808/Cloud-SOC)
     - Built a Honeynet in the Cloud, attracting live attackers, triggering alerts, and remediating incidents
+
+- <b>**Security Operations Center(SOC) Initiatives**</b>
+  - [Security Onion SOC Workshop](https://github.com/Thuynh808/Security-Onion-SOC-Workshop)
+    - Establish a small-scale Security Operations Center (SOC) laboratory using Security Onion. This includes tasks such as importing malicious PCAP files, generating incident cases, conducting incident response procedures, and composing detailed incident reports.
+
+
 <h1> 🤳 <a href="https://www.linkedin.com/in/Thuynh808/">Connect with me!</a>
 
