@@ -16,7 +16,7 @@
 
 - <b>**Security Operations Center(SOC) Initiatives**</b>
   - [Security Onion SOC Workshop](https://github.com/Thuynh808/Security-Onion-SOC-Workshop)
-    - Establish a small-scale Security Operations Center (SOC) laboratory using Security Onion. This includes tasks such as importing malicious PCAP files, generating incident cases, conducting incident response procedures, and composing detailed incident reports.
+    - Established a small-scale Security Operations Center (SOC) laboratory using Security Onion. This included tasks such as importing malicious PCAP files, generating incident cases, conducting incident response procedures, and composing detailed incident reports.
   - [Project Fishy Phiisshing](https://github.com/Thuynh808/Fishy-Phiisshing)
     - A comprehensive analysis of phishing threats, this project leverages Python to automate the retrieval of phishing samples from a dedicated GitHub repository using the GitHub API. We'll then concentrate on examining various phishing emails, focusing on strategies and techniques. The outcomes are detailed reports that not only chronicles the findings but also serves as resources for cybersecurity awareness and education.
 
