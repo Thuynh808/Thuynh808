@@ -16,9 +16,11 @@
 
 - <b>**Security Operations Center(SOC) Initiatives**</b>
   - [Security Onion SOC Workshop](https://github.com/Thuynh808/Security-Onion-SOC-Workshop)
-    - Established a small-scale Security Operations Center (SOC) laboratory using Security Onion. This included tasks such as importing malicious PCAP files, generating incident cases, conducting incident response procedures, and composing detailed incident reports.
+    - A small-scale Security Operations Center (SOC) laboratory was established using Security Onion. This included tasks such as importing malicious PCAP files, generating incident cases, conducting incident response procedures, and composing detailed incident reports.
   - [Project Fishy Phiisshing](https://github.com/Thuynh808/Fishy-Phiisshing)
-    - A comprehensive analysis of phishing threats, this project leverages Python to automate the retrieval of phishing samples from a dedicated GitHub repository using the GitHub API. We'll then concentrate on examining various phishing emails, focusing on strategies and techniques. The outcomes are detailed reports that not only chronicles the findings but also serves as resources for cybersecurity awareness and education.
+    - A comprehensive analysis of phishing threats, this project leverages Python to automate the retrieval of phishing samples from a dedicated GitHub repository using the GitHub API. We'll then concentrate on examining various phishing emails, focusing on strategies and techniques. The outcomes are detailed reports that not only chronicles the findings but also serve as resources for cybersecurity awareness and education.
+  - [Qualys Quest Analysis](https://github.com/Thuynh808/Qualys-Quest-Analysis)
+    - In this detailed walkthrough, we establish a virtual environment to run Qualys for vulnerability assessments. With outdated applications installed to simulate potential security risks, we provide a foundation for our scans. Employing the vulnerability management cycle, we systematically scan, analyze, and remediate, demonstrating a continuous approach to managing vulnerabilities. Furthermore, we craft pivot tables to generate trend reports that document the progression and remediation of vulnerabilities throughout the cycles.
 
 <h1> 🤳 <a href="https://www.linkedin.com/in/Thuynh808/">Connect with me!</a>
 
