@@ -1,5 +1,5 @@
-<h1>🔹🔷😀🙋‍♂️Hi, I'm Thong! 🙋‍♂️😀🔷🔹<br/></h1>
-<h2>Welcome to my GitHub, where I explore cybersecurity and system administration. Join me to discover projects that secure digital domains and streamline system operations. Let's dive in and create a safer, more efficient digital realm together! 🛡️🖥️</h2>
+![streetrack-banner](https://i.imgur.com/KMzGZPO.png)
+<br><br>
 
 <h2>👨‍💻My Projects:👨‍💻</h2>
 
