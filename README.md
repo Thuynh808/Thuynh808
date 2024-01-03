@@ -5,7 +5,7 @@
 
 
 - <b>**Administration Master Lab**</b>
-  - [Active Directory Lab](https://github.com/Thuynh808/Active-Directory-Homelab)
+  - [Active Directory Lab](https://github.com/Thuynh808/Active-Directory-Lab)
     - Created a mini corporate Active Directory enviroment with Domain Controller, DHCP, DNS, Python User Creation, and Group Policy Object(GPO)
   - [Ubuntu AD Integration](https://github.com/Thuynh808/Ubuntu-AD-Integration)
     - Building on from Active Directory Lab with an Ubuntu Server centralizing user management configuring network settings, joining the Ubuntu Server to the AD domain, setting up Kerberos authentication, and optimizing system configurations.
