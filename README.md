@@ -22,5 +22,5 @@
   - [Qualys Quest Analysis](https://github.com/Thuynh808/Qualys-Quest-Analysis)
     - In this detailed walkthrough, we establish a virtual environment to run Qualys for vulnerability assessments. With outdated applications installed to simulate potential security risks, we provide a foundation for our scans. Employing the vulnerability management cycle, we systematically scan, analyze, and remediate, demonstrating a continuous approach to managing vulnerabilities. Furthermore, we craft pivot tables to generate a trend report that documents the progression and remediation of vulnerabilities throughout the cycles.
 
-<h2> 🤳 <a href="https://www.linkedin.com/in/Thuynh808/" target="_blank">Connect with me!</a>
-<h2> 📄 <a href="https://www.streetrack.org" target="_blank">Cloud Resume</a>
+<h2> 📄 <a href="https://www.streetrack.org">Cloud Resume</a>
+<h2> 🤳 <a href="https://www.linkedin.com/in/Thuynh808/">Connect with me!</a>
