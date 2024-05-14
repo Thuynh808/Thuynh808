@@ -4,17 +4,19 @@
 <h2>👨‍💻My Projects:👨‍💻</h2>
 
 
-- <b>**Administration Master Lab**</b>
+- **Administration Master Lab**
   - [Active Directory Lab](https://github.com/Thuynh808/Active-Directory-Lab)
     - Created a mini corporate Active Directory enviroment with Domain Controller, DHCP, DNS, Python User Creation, and Group Policy Object(GPO)
   - [Ubuntu AD Integration](https://github.com/Thuynh808/Ubuntu-AD-Integration)
     - Building on from Active Directory Lab with an Ubuntu Server centralizing user management configuring network settings, joining the Ubuntu Server to the AD domain, setting up Kerberos authentication, and optimizing system configurations.
       
-- <b>**Cloud Security Ventures**</b>
+- **Cloud Security Ventures**
+  - [The Cyber Streetracker](https://github.com/Thuynh808/TheCyberStreetracker/blob/main/README.md)
+    - The Cyber Streetracker is a comprehensive web application designed to provide real-time cybersecurity news and vulnerability search capabilities, leveraging Azure services for robust functionality and security. This project implements advanced features such as OAuth2.0 authentication, Azure Functions, and a Web Application Firewall, ensuring a secure and responsive user experience. 
   - [Live SOC/Honeynet in Azure](https://github.com/Thuynh808/Cloud-SOC)
     - Built a Honeynet in the Cloud, attracting live attackers, triggering alerts, and remediating incidents
 
-- <b>**Security Operations Center(SOC) Initiatives**</b>
+- **Security Operations Center(SOC) Initiatives**
   - [Security Onion SOC Workshop](https://github.com/Thuynh808/Security-Onion-SOC-Workshop)
     - A small-scale Security Operations Center (SOC) laboratory was established using Security Onion. This included tasks such as importing malicious PCAP files, generating incident cases, conducting incident response procedures, and composing detailed incident reports.
   - [Project Fishy Phiisshing](https://github.com/Thuynh808/Fishy-Phiisshing)
