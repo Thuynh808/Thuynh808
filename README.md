@@ -12,7 +12,7 @@
    
 - **Infrastructure Automation and Monitoring**
   - [HA-WebTrack ***(New)***](https://github.com/Thuynh808/HA-WebTrack/blob/main/README.md)
-A high-availability web server setup built with Ansible, featuring automated infrastructure deployment, load balancing with HAProxy, real-time monitoring with Prometheus and Grafana, and hands-on testing for high-load stress and failover scenarios. It emphasizes RHCSA and RHCE practices, using dynamic variables and role-based playbooks for scalability.
+    - A high-availability web server setup built with Ansible, featuring automated infrastructure deployment, load balancing with HAProxy, real-time monitoring with Prometheus and Grafana, and hands-on testing for high-load stress and failover scenarios. It emphasizes RHCSA and RHCE practices, using dynamic variables and role-based playbooks for scalability.
       
 - **Cloud Security Ventures**
   - [The Cyber Streetracker ***(New)***](https://github.com/Thuynh808/TheCyberStreetracker/blob/main/README.md)
