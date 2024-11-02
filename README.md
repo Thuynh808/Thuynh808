@@ -13,6 +13,8 @@
 - **Infrastructure Automation and Monitoring**
   - [HA-WebTrack ***(New)***](https://github.com/Thuynh808/HA-WebTrack/blob/main/README.md)
     - A high-availability web server setup built with Ansible, featuring automated infrastructure deployment, load balancing with HAProxy, real-time monitoring with Prometheus and Grafana, and hands-on testing for high-load stress and failover scenarios. It emphasizes RHCSA and RHCE practices, using dynamic variables and role-based playbooks for scalability.
+  - [Elastic_labs ***(New)***](https://github.com/Thuynh808/elastic_labs/blob/main/README.md)
+     - The elastic_labs project is designed to simulate a Elastic Stack environment using Ansible for automated deployment and management. This setup focuses on configuring a comprehensive SIEM system that includes Elasticsearch, Kibana, Fleet, Zeek integration, and Elastic Agents on a controlled RHEL environment.
       
 - **Cloud Security Ventures**
   - [The Cyber Streetracker ***(New)***](https://github.com/Thuynh808/TheCyberStreetracker/blob/main/README.md)
