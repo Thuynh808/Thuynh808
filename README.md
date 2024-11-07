@@ -28,7 +28,7 @@
   - [Project Fishy Phiisshing](https://github.com/Thuynh808/Fishy-Phiisshing/blob/main/README.md)
     - A comprehensive analysis of phishing threats, this project leverages Python to automate the retrieval of phishing samples from a dedicated GitHub repository using the GitHub API. We'll then concentrate on examining various phishing emails, focusing on strategies and techniques. The outcomes are detailed reports that not only chronicles the findings but also serve as resources for cybersecurity awareness and education.
   - [Qualys Quest Analysis](https://github.com/Thuynh808/Qualys-Quest-Analysis/blob/main/README.md)
-    - In this detailed walkthrough, we establish a virtual environment to run Qualys for vulnerability assessments. With outdated applications installed to simulate potential security risks, we provide a foundation for our scans. Employing the vulnerability management cycle, we systematically scan, analyze, and remediate, demonstrating a continuous approach to managing vulnerabilities. Furthermore, we craft pivot tables to generate a trend report that documents the progression and remediation of vulnerabilities throughout the cycles.
+    - This project uses Qualys to scan a Windows VM with outdated software in VirtualBox, set up in a NAT network. Vulnerabilities are remediated and tracked, with results visualized in Google Sheets pivot tables to create a trend report, highlighting effective vulnerability management cycle.
 
 <h2> 📄 <a href="https://www.streetrack.org">Cloud Resume</a>
 <h2> 🤳 <a href="https://www.linkedin.com/in/Thuynh808/">Connect with me!</a>
