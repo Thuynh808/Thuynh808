@@ -17,7 +17,7 @@
      - The elastic_labs project is designed to simulate a Elastic Stack environment using Ansible for automated deployment and management. This setup focuses on configuring a comprehensive SIEM system that includes Elasticsearch, Kibana, Fleet, Zeek integration, and Elastic Agents on a controlled RHEL environment.
       
 - **Cloud Security Ventures**
-  - [The Cyber Streetracker ***(New)***](https://github.com/Thuynh808/TheCyberStreetracker/blob/main/README.md)
+  - [The Cyber Streetracker](https://github.com/Thuynh808/TheCyberStreetracker/blob/main/README.md)
     - The Cyber Streetracker is a comprehensive web application designed to provide real-time cybersecurity news and vulnerability search capabilities, leveraging Azure services for robust functionality and security. This project implements advanced features such as OAuth2.0 authentication, Azure Functions, and a Web Application Firewall, ensuring a secure and responsive user experience. 
   - [Live SOC/Honeynet in Azure](https://github.com/Thuynh808/Cloud-SOC/blob/main/README.md)
     - Built a Honeynet in the Cloud, attracting live attackers, triggering alerts, and remediating incidents
