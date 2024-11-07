@@ -24,7 +24,7 @@
 
 - **Security Operations Center(SOC) Initiatives**
   - [Security Onion SOC Workshop](https://github.com/Thuynh808/Security-Onion-SOC-Workshop/blob/main/README.md)
-    - A small-scale Security Operations Center (SOC) laboratory was established using Security Onion. This included tasks such as importing malicious PCAP files, generating incident cases, conducting incident response procedures, and composing detailed incident reports.
+    - This project builds a virtual SOC environment with Security Onion for malware analysis and network monitoring. Using Zeek, Suricata, Wireshark, and OSINT tools (AbuseIPDB, VirusTotal), it covers importing malicious PCAPs, analyzing alerts, and creating incident reports, providing hands-on SOC experience in threat detection and response.
   - [Project Fishy Phiisshing](https://github.com/Thuynh808/Fishy-Phiisshing/blob/main/README.md)
     - This project automates phishing email collection from GitHub for analysis on a Kali Linux VM. Using Thunderbird, Talos Intelligence, VirusTotal, and PhishTool, it dissects phishing tactics. The final SOC-style report provides insights, technical findings, and recommendations to strengthen defenses against phishing attacks.
   - [Qualys Quest Analysis](https://github.com/Thuynh808/Qualys-Quest-Analysis/blob/main/README.md)
