@@ -6,7 +6,7 @@
 
 - **Administration Master Lab**
   - [Active Directory Lab](https://github.com/Thuynh808/Active-Directory-Lab/blob/main/README.md)
-    - Created a mini corporate Active Directory enviroment with Domain Controller, DHCP, DNS, Python User Creation, and Group Policy Object(GPO)
+    - This Active Directory lab simulates a corporate environment with a Windows Server 2019 Domain Controller and Windows 10 client in VirtualBox. It includes AD Domain Services, DHCP, RAS/NAT, and Group Policy Objects (GPO) for network and policy management. A Python script automates user creation, providing hands-on experience in system administration and network configuration.
   - [Ubuntu AD Integration](https://github.com/Thuynh808/Ubuntu-AD-Integration/blob/main/README.md)
     - Building on from Active Directory Lab with an Ubuntu Server centralizing user management configuring network settings, joining the Ubuntu Server to the AD domain, setting up Kerberos authentication, and optimizing system configurations.
    
@@ -20,7 +20,7 @@
   - [The Cyber Streetracker](https://github.com/Thuynh808/TheCyberStreetracker/blob/main/README.md)
     - The Cyber Streetracker is a comprehensive web application designed to provide real-time cybersecurity news and vulnerability search capabilities, leveraging Azure services for robust functionality and security. This project implements advanced features such as OAuth2.0 authentication, Azure Functions, and a Web Application Firewall, ensuring a secure and responsive user experience. 
   - [Live SOC/Honeynet in Azure](https://github.com/Thuynh808/Cloud-SOC/blob/main/README.md)
-    - Built a Honeynet in the Cloud, attracting live attackers, triggering alerts, and remediating incidents
+    - This Azure honeynet project uses Microsoft Sentinel to monitor threats on exposed VMs, SQL Server, Blob Storage, and Key Vault. Initial logs capture vulnerabilities and attacks, which are then reduced by applying Network Security Groups, firewalls, and Private Endpoints. The project showcases how security controls enhance threat detection and protection in Sentinel.
 
 - **Security Operations Center(SOC) Initiatives**
   - [Security Onion SOC Workshop](https://github.com/Thuynh808/Security-Onion-SOC-Workshop/blob/main/README.md)
