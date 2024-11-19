@@ -11,6 +11,8 @@
     - Building on from Active Directory Lab with an Ubuntu Server centralizing user management configuring network settings, joining the Ubuntu Server to the AD domain, setting up Kerberos authentication, and optimizing system configurations.
    
 - **Infrastructure Automation and Monitoring**
+  - [HPC_CryptoCluster ***(New)***](https://github.com/Thuynh808/HPC_CryptoCluster/blob/main/README.md)
+    - Automated deployment of a high-performance computing (HPC) cluster featuring stateless compute nodes with Warewulf, Slurm for job scheduling, and John the Ripper for distributed password cracking. This project highlights the integration of automation, scalability, and cybersecurity testing in an HPC environment.
   - [HA-WebTrack ***(New)***](https://github.com/Thuynh808/HA-WebTrack/blob/main/README.md)
     - A high-availability web server setup built with Ansible, featuring automated infrastructure deployment, load balancing with HAProxy, real-time monitoring with Prometheus and Grafana, and hands-on testing for high-load stress and failover scenarios. It emphasizes RHCSA and RHCE practices, using dynamic variables and role-based playbooks for scalability.
   - [Elastic_labs ***(New)***](https://github.com/Thuynh808/elastic_labs/blob/main/README.md)
