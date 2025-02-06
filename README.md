@@ -13,14 +13,18 @@
 - **Infrastructure Automation and Monitoring**
   - [Weather-Dashboard-Automation ***(New)***](https://github.com/Thuynh808/weather-dashboard-automation/blob/main/README.md)
     - A fully automated solution using AWS and Ansible to fetch daily weather data, store it in S3, trigger a Lambda function via EventBridge, and send aggregated weather reports to subscribers via SNS. Built with IaC principles for scalability and reliability!
-  - [HPC_CryptoCluster ***(New)***](https://github.com/Thuynh808/HPC_CryptoCluster/blob/main/README.md)
+  - [HPC_CryptoCluster](https://github.com/Thuynh808/HPC_CryptoCluster/blob/main/README.md)
     - Automated deployment of a high-performance computing (HPC) cluster featuring stateless compute nodes with Warewulf, Slurm for job scheduling, and John the Ripper for distributed password cracking. This project highlights the integration of automation, scalability, and cybersecurity testing in an HPC environment.
-  - [HA-WebTrack ***(New)***](https://github.com/Thuynh808/HA-WebTrack/blob/main/README.md)
+  - [HA-WebTrack](https://github.com/Thuynh808/HA-WebTrack/blob/main/README.md)
     - A high-availability web server setup built with Ansible, featuring automated infrastructure deployment, load balancing with HAProxy, real-time monitoring with Prometheus and Grafana, and hands-on testing for high-load stress and failover scenarios. It emphasizes RHCSA and RHCE practices, using dynamic variables and role-based playbooks for scalability.
   - [Elastic_labs](https://github.com/Thuynh808/elastic_labs/blob/main/README.md)
      - The elastic_labs project is designed to simulate a Elastic Stack environment using Ansible for automated deployment and management. This setup focuses on configuring a comprehensive SIEM system that includes Elasticsearch, Kibana, Fleet, Zeek integration, and Elastic Agents on a controlled RHEL environment.
       
 - **Cloud Security Ventures**
+  - [Breach Tracker ***(New)***](https://github.com/Thuynh808/Breach-Tracker/blob/main/README.md)
+    - Breach Tracker is an AWS-based system that automates breach data retrieval using a Flask app on ECS Fargate. It integrates public API Gateway with private ALB and ECS for secure and scalable data delivery. Built with Terraform and Ansible, it streamlines infrastructure deployment and management.
+  - [CVEDataLake ***(New)***](https://github.com/Thuynh808/CVEDataLake/blob/main/README.md)
+    - CVEDataLake automates CVE data ingestion, storage, and querying using AWS S3, Glue, and Athena. It integrates public data sources with structured querying, enabling security teams to analyze vulnerabilities efficiently. With Ansible automation, it streamlines deployment and generates JSON reports for audits, dashboards, and security workflows.
   - [The Cyber Streetracker](https://github.com/Thuynh808/TheCyberStreetracker/blob/main/README.md)
     - The Cyber Streetracker is a comprehensive web application designed to provide real-time cybersecurity news and vulnerability search capabilities, leveraging Azure services for robust functionality and security. This project implements advanced features such as OAuth2.0 authentication, Azure Functions, and a Web Application Firewall, ensuring a secure and responsive user experience. 
   - [Live SOC/Honeynet in Azure](https://github.com/Thuynh808/Cloud-SOC/blob/main/README.md)
