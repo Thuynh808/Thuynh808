@@ -22,7 +22,7 @@
       
 - **Cloud Security Ventures**
   - [Breach Tracker ***(New)***](https://github.com/Thuynh808/Breach-Tracker/blob/main/README.md)
-    - Breach Tracker is an AWS-based system that automates breach data retrieval using a Flask app on ECS Fargate. It integrates public API Gateway with private ALB and ECS for secure and scalable data delivery. Built with Terraform and Ansible, it streamlines infrastructure deployment and management.
+    - Breach Tracker is an AWS-based system that automates breach data retrieval using a Flask app on ECS Fargate. It integrates public API Gateway with private ALB and ECS for secure and scalable data delivery. Built with **Terraform** and **Ansible**, it streamlines infrastructure deployment and management.
   - [CVEDataLake ***(New)***](https://github.com/Thuynh808/CVEDataLake/blob/main/README.md)
     - CVEDataLake automates CVE data ingestion, storage, and querying using AWS S3, Glue, and Athena. It integrates public data sources with structured querying, enabling security teams to analyze vulnerabilities efficiently. With Ansible automation, it streamlines deployment and generates JSON reports for audits, dashboards, and security workflows.
   - [The Cyber Streetracker](https://github.com/Thuynh808/TheCyberStreetracker/blob/main/README.md)
