@@ -23,6 +23,8 @@
      - The elastic_labs project is designed to simulate a Elastic Stack environment using Ansible for automated deployment and management. This setup focuses on configuring a comprehensive SIEM system that includes Elasticsearch, Kibana, Fleet, Zeek integration, and Elastic Agents on a controlled RHEL environment.
       
 - **Cloud Security Ventures**
+  - [ScanOps ***(New)***](https://github.com/Thuynh808/scanops/blob/main/README.md)
+    - ScanOps is an automated container security pipeline that builds, scans, and promotes Docker images using GitHub Actions, Trivy, AWS ECR, and S3. It enforces security gates by quarantining vulnerable images and generating SBOMs, with Slack alerts providing real-time visibility. Built with Ansible and CI/CD best practices for container DevSecOps.
   - [Breach Tracker ***(New)***](https://github.com/Thuynh808/Breach-Tracker/blob/main/README.md)
     - Breach Tracker is an AWS-based system that automates breach data retrieval using a Flask app on ECS Fargate. It integrates public API Gateway with private ALB and ECS for secure and scalable data delivery. Built with **Terraform** and **Ansible**, it streamlines infrastructure deployment and management.
   - [CVEDataLake ***(New)***](https://github.com/Thuynh808/CVEDataLake/blob/main/README.md)
