@@ -13,7 +13,7 @@
 - **Infrastructure Automation and Monitoring**
   - [STIG-Hardened ***(New)***](https://github.com/Thuynh808/STIG-Hardened/blob/main/README.md)
     - An automated workflow to scan, remediate, and validate RHEL 9 systems for DISA STIG compliance using Ansible and SCC. Achieved over 80% compliance with repeatable, scalable methods for system hardening and security baselines.
-  - [Weather-Dashboard-Automation ***(New)***](https://github.com/Thuynh808/weather-dashboard-automation/blob/main/README.md)
+  - [Weather-Dashboard-Automation](https://github.com/Thuynh808/weather-dashboard-automation/blob/main/README.md)
     - A fully automated solution using AWS and Ansible to fetch daily weather data, store it in S3, trigger a Lambda function via EventBridge, and send aggregated weather reports to subscribers via SNS. Built with IaC principles for scalability and reliability!
   - [HPC_CryptoCluster](https://github.com/Thuynh808/HPC_CryptoCluster/blob/main/README.md)
     - Automated deployment of a high-performance computing (HPC) cluster featuring stateless compute nodes with Warewulf, Slurm for job scheduling, and John the Ripper for distributed password cracking. This project highlights the integration of automation, scalability, and cybersecurity testing in an HPC environment.
