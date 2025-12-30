@@ -1,4 +1,4 @@
-![streetrack-banner](https://i.imgur.com/KMzGZPO.png)
+![streetrack-banner](https://github.com/Thuynh808/Thuynh808/blob/main/streetrack-banner.gif)
 <br><br>
 
 <h2>👨‍💻My Projects:👨‍💻</h2>
