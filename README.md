@@ -9,7 +9,7 @@ Infrastructure, cloud, and security focused, building automated, observable, and
 
 ## Platforms
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+![AWS](https://img.shields.io/badge/AWS-1E293B?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 &nbsp;
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
 &nbsp;
@@ -35,28 +35,28 @@ Security is integrated throughout the lifecycle, including system hardening with
 
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
 &nbsp;
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292F?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white)
 &nbsp;
-![AWS ECR](https://img.shields.io/badge/AWS_ECR-3A3A3A?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS ECR](https://img.shields.io/badge/AWS_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 
 Designed and operate container workflows that automate build, scan, and promotion stages using **CI/CD** pipelines rather than manual deployment processes.
 
 ## 📈 Observability & Networking
 
-![Prometheus](https://img.shields.io/badge/Prometheus-2F2F2F?style=for-the-badge&logo=prometheus&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 &nbsp;
-![Grafana](https://img.shields.io/badge/Grafana-3A3A3A?style=for-the-badge&logo=grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 &nbsp;
-![Loki](https://img.shields.io/badge/Loki-1F2937?style=for-the-badge)
+![Loki](https://img.shields.io/badge/Loki-334155?style=for-the-badge)
 &nbsp;
-![HAProxy](https://img.shields.io/badge/HAProxy-1A1A1A?style=for-the-badge&logo=haproxy&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-312E81?style=for-the-badge&logo=haproxy&logoColor=white)
 
 Additional experience includes metrics, logs, and network telemetry ingestion using **SNMP**, **Syslog**, and traffic analysis with **Zeek** to support troubleshooting and incident response.
 
 ## Credentials
 
 **Education**
-- Bachelors of Science in Information Technology - WGU
+- B.S. Information Technology - WGU
 
 **Cloud**
 - AWS Certified Solutions Architect – Associate
@@ -98,5 +98,7 @@ Highly available web infrastructure deployed with Ansible, featuring **HAProxy**
 
 ## Connect
 
-- 🌐 Cloud Resume: https://www.streetrack.org  
-- 💼 LinkedIn: https://www.linkedin.com/in/Thuynh808/
+- 🌐 Cloud Resume: <br>
+https://www.streetrack.org  
+- 💼 LinkedIn:<br>
+https://www.linkedin.com/in/Thuynh808/
