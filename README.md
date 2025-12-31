@@ -2,15 +2,17 @@
 
 <div align="center">
   <a href="https://www.streetrack.org">
-    <img src="https://img.shields.io/badge/Website-streetrack.org-0A0A0A?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Website-streetrack.org-0A898A?style=for-the-badge">   
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/Thuynh808/">
     <img src="https://img.shields.io/badge/LinkedIn-Thuynh808-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 
+## About Me
 
-
+Infrastructure, cloud, and security focused, building automated, observable, and secure systems.
 
 
 
