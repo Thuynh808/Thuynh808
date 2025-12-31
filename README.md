@@ -19,7 +19,7 @@ Infrastructure, cloud, and security focused, building automated, observable, and
 
 Hands-on experience operating workloads across **AWS** and **Azure**, primarily on **RHEL-based Linux** systems in cloud and on-prem style environments.
 
-## 🔐 Security & DevSecOps
+## Security & DevSecOps
 
 ![DISA STIG](https://img.shields.io/badge/DISA_STIG-2F4F4F?style=for-the-badge)
 &nbsp;
@@ -31,7 +31,7 @@ Hands-on experience operating workloads across **AWS** and **Azure**, primarily 
 
 Security is integrated throughout the lifecycle, including system hardening with **DISA STIGs**, container vulnerability scanning, and centralized detection using SIEM platforms.
 
-## 🐳 Containers & CI/CD
+## Containers & CI/CD
 
 ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
 &nbsp;
@@ -41,7 +41,7 @@ Security is integrated throughout the lifecycle, including system hardening with
 
 Designed and operate container workflows that automate build, scan, and promotion stages using **CI/CD** pipelines rather than manual deployment processes.
 
-## 📈 Observability & Networking
+## Observability & Networking
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 &nbsp;
