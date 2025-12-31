@@ -1,5 +1,20 @@
 ![streetrack-banner](https://github.com/Thuynh808/Thuynh808/blob/main/streetrack-banner.gif)
-<br><br>
+
+<div align="center">
+  <a href="https://www.streetrack.org">
+    <img src="https://img.shields.io/badge/Website-streetrack.org-0A0A0A?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/Thuynh808/">
+    <img src="https://img.shields.io/badge/LinkedIn-Thuynh808-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
+
+
+
+
+
+
 
 <h2>👨‍💻My Projects:👨‍💻</h2>
 
