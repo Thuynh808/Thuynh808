@@ -29,7 +29,7 @@ Hands-on experience operating workloads across **AWS** and **Azure**, primarily 
 &nbsp;
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-004B8D?style=for-the-badge&logo=microsoft&logoColor=white)
 
-Security is integrated throughout the lifecycle, including system hardening with **DISA STIGs**, container vulnerability scanning, and centralized detection using SIEM platforms.
+Familiar with security integrated system hardening with **DISA STIGs**, container vulnerability scanning, and centralized detection using SIEM platforms.
 
 ## Containers & CI/CD
 
