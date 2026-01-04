@@ -5,7 +5,7 @@
 
 ## About Me
 
-Infrastructure, cloud, and security focused, building automated, observable, and secure systems.
+Hi, I am infrastructure, cloud, and security focused, building automated, observable, and secure systems.
 
 ## Platforms
 
