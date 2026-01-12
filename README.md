@@ -1,7 +1,9 @@
 ![streetrack-banner](https://github.com/Thuynh808/Thuynh808/blob/main/streetrack-banner.gif)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thuynh808-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Thuynh808/) &nbsp;
-[![Website](https://img.shields.io/badge/Website-streetrack.org-0A898A?style=for-the-badge)](https://www.streetrack.org) 
+[![Website](https://img.shields.io/badge/Website-streetrack.org-0A898A?style=for-the-badge)](https://www.streetrack.org)  &nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-Streetrack-CC0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@streetrackk)
+
 
 ## About Me
 
@@ -99,6 +101,8 @@ Highly available web infrastructure deployed with Ansible, featuring **HAProxy**
 ## Connect
 
 - 🌐 Cloud Resume: <br>
-https://www.streetrack.org  
+https://www.streetrack.org
 - 💼 LinkedIn:<br>
-https://www.linkedin.com/in/Thuynh808/
+https://www.linkedin.com/in/Thuynh808
+- 📺 YouTube:<br>
+http://www.youtube.com/@streetrackk
