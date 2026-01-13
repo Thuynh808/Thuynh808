@@ -84,19 +84,19 @@ Additional experience includes metrics, logs, and network telemetry ingestion us
 
 **STIG-Hardened**  
 Automated **DISA STIG** scanning, remediation, and validation for **RHEL 9** systems using **Ansible** and **SCC**, achieving over **80%** compliance with repeatable workflows <br>
-→ https://github.com/Thuynh808/STIG-Hardened/blob/main/README.md
+- https://github.com/Thuynh808/STIG-Hardened/blob/main/README.md
 
 **ScanOps**  
 End-to-end container security pipeline using **GitHub Actions, Trivy, and AWS ECR** to enforce vulnerability gating, **SBOM** generation, and image promotion with automated alerts <br>
-→ https://github.com/Thuynh808/scanops/blob/main/README.md
+- https://github.com/Thuynh808/scanops/blob/main/README.md
 
 **Breach Tracker**  
 AWS-based backend service built on **ECS** Fargate, **internal ALB**, and API Gateway to collect, process, and expose breach data using **Terraform** and **Ansible** <br>
-→ https://github.com/Thuynh808/Breach-Tracker/blob/main/README.md
+- https://github.com/Thuynh808/Breach-Tracker/blob/main/README.md
 
-**HA-WebTrack**  
-Highly available web infrastructure deployed with Ansible, featuring **HAProxy** load balancing, **Prometheus** and **Grafana** monitoring, and validated **failover** and load testing <br>
-→ https://github.com/Thuynh808/HA-WebTrack/blob/main/README.md
+**Mon1theus**  
+Centralized observability platform for a Layer 3 routed homelab using **Prometheus**, **Loki**, **Grafana**, and **SNMP/syslog** telemetry, with validated **OSPF** reconvergence and link-failure visibility during real failover and recovery tests. <br>
+- https://github.com/Thuynh808/Mon1theus/blob/main/README.md
 
 ## Connect
 
