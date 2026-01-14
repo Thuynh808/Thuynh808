@@ -82,6 +82,14 @@ Additional experience includes metrics, logs, and network telemetry ingestion us
 
 ## Project Highlights
 
+**Mon1theus**  
+Centralized observability platform for a Layer 3 routed homelab using **Prometheus**, **Loki**, **Grafana**, and **SNMP/syslog** telemetry, with validated **OSPF** reconvergence and link-failure visibility during real failover and recovery tests. <br>
+- https://github.com/Thuynh808/Mon1theus/blob/main/README.md
+
+**Active Directory Lab**<br>
+Foundational Windows identity lab demonstrating **Active Directory**, **DNS**, **DHCP**, **Group Policy**, and domain-joined client behavior, including automated **python** user provisioning and OU-based policy enforcement. <br>
+- https://github.com/Thuynh808/Active-Directory-Lab/blob/main/README.md
+
 **STIG-Hardened**  
 Automated **DISA STIG** scanning, remediation, and validation for **RHEL 9** systems using **Ansible** and **SCC**, achieving over **80%** compliance with repeatable workflows <br>
 - https://github.com/Thuynh808/STIG-Hardened/blob/main/README.md
@@ -93,10 +101,6 @@ End-to-end container security pipeline using **GitHub Actions, Trivy, and AWS EC
 **Breach Tracker**  
 AWS-based backend service built on **ECS** Fargate, **internal ALB**, and API Gateway to collect, process, and expose breach data using **Terraform** and **Ansible** <br>
 - https://github.com/Thuynh808/Breach-Tracker/blob/main/README.md
-
-**Mon1theus**  
-Centralized observability platform for a Layer 3 routed homelab using **Prometheus**, **Loki**, **Grafana**, and **SNMP/syslog** telemetry, with validated **OSPF** reconvergence and link-failure visibility during real failover and recovery tests. <br>
-- https://github.com/Thuynh808/Mon1theus/blob/main/README.md
 
 ## Connect
 
