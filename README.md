@@ -1,4 +1,4 @@
-![streetrack-banner](https://github.com/Thuynh808/Thuynh808/blob/main/streetrack-banner.gif)
+[![streetrack-banner](https://github.com/Thuynh808/Thuynh808/blob/main/streetrack-banner.gif)](https://www.streetrack.org)
 
 [![Website](https://img.shields.io/badge/Website-streetrack.org-0A898A?style=for-the-badge)](https://www.streetrack.org)  &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thuynh808-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Thuynh808/) &nbsp;
@@ -86,9 +86,9 @@ Additional experience includes metrics, logs, and network telemetry ingestion us
 Centralized observability platform for a Layer 3 routed homelab using **Prometheus**, **Loki**, **Grafana**, and **SNMP/syslog** telemetry, with validated **OSPF** reconvergence and link-failure visibility during real failover and recovery tests. <br>
 - https://github.com/Thuynh808/Mon1theus/blob/main/README.md
 
-**Active Directory Lab**<br>
-Foundational Windows identity lab demonstrating **Active Directory**, **DNS**, **DHCP**, **Group Policy**, and domain-joined client behavior, including automated **python** user provisioning and OU-based policy enforcement. <br>
-- https://github.com/Thuynh808/Active-Directory-Lab/blob/main/README.md
+**Azure Release Verifier**<br>
+Automated Azure release validation system that scales verification workloads with **VM Scale Sets**, checks application health post-deployment, and securely stores verification results using **Managed Identity** and **Azure Storage**
+- https://github.com/Thuynh808/azure-release-verifier/blob/main/README.md
 
 **STIG-Hardened**  
 Automated **DISA STIG** scanning, remediation, and validation for **RHEL 9** systems using **Ansible** and **SCC**, achieving over **80%** compliance with repeatable workflows <br>
