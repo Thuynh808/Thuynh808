@@ -2,8 +2,6 @@
 
 [![Website](https://img.shields.io/badge/Website-streetrack.org-0A898A?style=for-the-badge)](https://www.streetrack.org)  &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thuynh808-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Thuynh808/) &nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-Streetrack-CC0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@streetrackk)
-
 
 ## About Me
 
@@ -108,5 +106,3 @@ AWS-based backend service built on **ECS** Fargate, **internal ALB**, and API Ga
 https://www.streetrack.org
 - 💼 LinkedIn:<br>
 https://www.linkedin.com/in/Thuynh808
-- 📺 YouTube:<br>
-http://www.youtube.com/@streetrackk
